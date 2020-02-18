@@ -38,7 +38,7 @@ def error(error):
 	global banner
 	os.system("clear")
 	errormsg = '''
-Usage: python id.py -u https://site.com?page_id= -n 1000
+Usage: python idbuster.py -u https://site.com?page_id= -n 1000
 
 options:
 
