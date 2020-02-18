@@ -6,8 +6,8 @@ Quick Usage:
 
 python id.py -u https://example.com/?id= -n 1000
 
-This Example above will bruteforce all Page id's from 1 to 1000 and will return Pages with status codes of
-[200,401,403]
+This Example above will bruteforce all Page id's from 1 to 1000 and will return Pages with status code of
+[200]
 
 If you have any issues you can write me or simply ask for help and also feel free to modify the source code
 and make it work better.
