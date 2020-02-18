@@ -1,4 +1,4 @@
-# webpage-id-bruteforcer
+# WebPageIdBruteforcer
 With idbuster you can Bruteforce Page id's like http://test.com/?page_id=
 You can input a range for example 1000 or 100 and than it trys all page id's from 1 to your given range.
 
